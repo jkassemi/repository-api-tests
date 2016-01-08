@@ -1,3 +1,6 @@
 [submodule "bowtie-io"]
 	path = bowtie-io
 	url = git@github.com:bowtie-io/bowtie-io
+[submodule "static-revival-com"]
+	path = static-revival-com
+	url = git@git.bowtie.io:static-revival-com.git
