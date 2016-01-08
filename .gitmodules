@@ -1,0 +1,3 @@
+[submodule "bowtie-io"]
+	path = bowtie-io
+	url = git@github.com:bowtie-io/bowtie-io
